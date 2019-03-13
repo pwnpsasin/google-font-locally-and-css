@@ -2,7 +2,7 @@
 
 ##
 ## Google Font - save to disk locally and prepare css file
-##
+## @2019 Pawel Sasin
 
 ## Requirements: npm install uglifycss -g, curl with ssl, sed, awk, md5sum
 
